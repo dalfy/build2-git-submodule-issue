@@ -1,0 +1,5 @@
+:1
+# Repository of third party libraries used in the project
+role: prerequisite
+location: https://github.com/dalfy/build2-third_party.git#HEAD
+type: git

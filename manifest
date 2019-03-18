@@ -1,0 +1,10 @@
+: 1
+name: build2-git-submodule
+version: 0.1.0-a.0.z
+summary: Small test case to demonstrate recursive checkout 
+license: MIT
+url: https://example.org/
+email: olivier.delannoy@gmail.com
+depends: * build2 >= 0.8.0-
+depends: * bpkg >= 0.8.0-
+depends: * libjson >= $
